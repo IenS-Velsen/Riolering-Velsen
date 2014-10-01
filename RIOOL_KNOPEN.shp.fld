@@ -1,0 +1,27 @@
+﻿
+[TatukGIS Fields]
+ADRES=Adres
+AFVOERTYPE=Afvoertype
+BREEDTE=Breedte
+CKWALITEIT=CKwaliteit
+CONSTRUCT=Construct
+DATUM=Datum
+DEKSELTYPE=Dekseltype
+INSTROOM=Instroom
+JAAR=Jaar
+KNOOPNR=Knoopnr
+LENGTE=Lengte
+MATERIAAL=Materiaal
+MKWALITEIT=MKwaliteit
+NR_POSITIE=Nr_positie
+OPMERKING=opmerking
+OPPERVLAK=Oppervlak
+PEIL_BODEM=Peil_bodem
+PEIL_MV=Peil_mv
+PEIL_WATER=Peil_water
+STRAAT=Straat
+STRPROTYPE=StrProtype
+TYPE=Type
+VERLIES=Verlies
+VORM=Vorm
+
